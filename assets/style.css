@@ -7,4 +7,14 @@
     font-family:'Montserrat';
 }
 
-
+/* h3{
+    grid-area: main;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(245, 151, 148);
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+} */
